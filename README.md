@@ -70,19 +70,19 @@ print(df.head())
 | alpha.qpon      | available | $27.99    | $27.99        | 90             | 53     | 5      | name.com      |
 | stable.qpon     | resell    | —         | —             | 104            | 37     | 6      | Dynadot LLC   |
 | nationwide.qpon | premium   | $937.50   | $27.99        | 76             | 66     | 10     | name.com      |
-| simple.qpon     | available | $27.99    | $27.99        | 128            | 48     | 6      | name.com      |
+| simple.qpon     | available | $27.99    | $27.99        | 128            | 49     | 6      | name.com      |
 | lottery.qpon    | resell    | —         | —             | 70             | 29     | 7      | Name.com, Inc |
 | easy.qpon       | premium   | $937.50   | $27.99        | 128            | 62     | 4      | name.com      |
 | startup.qpon    | available | $1.99     | —             | 82             | 47     | 7      | name.com      |
 | zero.qpon       | premium   | $937.50   | $27.99        | 112            | 53     | 4      | name.com      |
 | only.qpon       | available | $27.99    | $27.99        | 110            | 46     | 4      | name.com      |
-| fast.qpon       | premium   | $4,687.50 | $27.99        | 82             | 53     | 4      | name.com      |
-| creative.qpon   | available | $27.99    | $27.99        | 92             | 45     | 8      | name.com      |
 | true.qpon       | premium   | $4,687.50 | $27.99        | 86             | 52     | 4      | name.com      |
+| creative.qpon   | available | $27.99    | $27.99        | 92             | 45     | 8      | name.com      |
+| fast.qpon       | premium   | $4,687.50 | $27.99        | 82             | 52     | 4      | name.com      |
 | creator.qpon    | available | $27.99    | $27.99        | 70             | 45     | 7      | name.com      |
-| design.qpon     | premium   | $937.50   | $27.99        | 108            | 50     | 6      | name.com      |
-| forge.qpon      | available | $27.99    | $27.99        | 62             | 45     | 5      | name.com      |
-| digital.qpon    | premium   | $4,687.50 | $27.99        | 100            | 50     | 7      | name.com      |
+| design.qpon     | premium   | $937.50   | $27.99        | 108            | 49     | 6      | name.com      |
+| forge.qpon      | available | $27.99    | $27.99        | 62             | 44     | 5      | name.com      |
+| digital.qpon    | premium   | $4,687.50 | $27.99        | 100            | 49     | 7      | name.com      |
 | wizard.qpon     | available | $27.99    | $27.99        | 118            | 43     | 6      | name.com      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
