@@ -1,10 +1,10 @@
-# Available .QPON One-Word Domains (12,713)
+# Available .QPON One-Word Domains (12,715)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C713%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C715%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .qpon one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,713 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,715 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,713 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,715 domains · **Median ask:** $272.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/qpon`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,16 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| WiFi.qpon          | premium   | —         | —             | 83             | 37     | 5      | —         |
+| geton.qpon         | available | $1.99     | —             | 82             | 10     | 6      | name.com  |
+| getup.qpon         | available | $1.99     | —             | 82             | 14     | 6      | name.com  |
+| popup.qpon         | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
+| Apples.qpon        | premium   | —         | —             | 90             | 16     | 6      | —         |
+| gearup.qpon        | available | $1.99     | —             | 80             | 16     | 7      | name.com  |
+| playin.qpon        | available | $1.99     | —             | 80             | 10     | 7      | name.com  |
+| stirup.qpon        | available | $1.99     | —             | 82             | 3      | 7      | name.com  |
+| getlife.qpon       | available | $1.99     | —             | 80             | 5      | 8      | name.com  |
+| messages.qpon      | available | $1.99     | —             | 80             | 16     | 8      | name.com  |
 | keepthechange.qpon | available | $1.99     | —             | 46             | 59     | 15     | name.com  |
 | robots.qpon        | premium   | $640      | $23.54        | 62             | 47     | 6      | namesilo  |
 | whynot.qpon        | available | $1.99     | —             | 74             | 39     | 7      | name.com  |
@@ -74,16 +84,6 @@ print(df.head())
 | solutions.qpon     | premium   | $4,687.50 | —             | 56             | 31     | 9      | name.com  |
 | spaces.qpon        | available | $1.99     | —             | 54             | 30     | 6      | name.com  |
 | photos.qpon        | premium   | $4,687.50 | —             | 54             | 28     | 6      | name.com  |
-| popup.qpon         | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
-| systems.qpon       | premium   | $937.50   | —             | 46             | 27     | 7      | name.com  |
-| heroes.qpon        | available | $1.99     | —             | 68             | 29     | 6      | name.com  |
-| trades.qpon        | premium   | $3,450    | $23.54        | 71             | 26     | 6      | namesilo  |
-| quotes.qpon        | available | $1.99     | —             | 58             | 29     | 6      | name.com  |
-| comics.qpon        | premium   | $468.75   | —             | 68             | 24     | 6      | name.com  |
-| destination.qpon   | available | $1.99     | —             | 90             | 25     | 11     | name.com  |
-| shops.qpon         | premium   | $4,687.50 | —             | 64             | 24     | 5      | name.com  |
-| drops.qpon         | available | $1.99     | —             | 52             | 25     | 5      | name.com  |
-| machines.qpon      | premium   | $4,687.50 | —             | 56             | 22     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,713 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,715 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of one-word domains on the .qpon extension. The names span short coined terms, dictionary words, and keyword-style strings such as Acup.qpon, Trex.qpon, WiFi.qpon, finals.qpon, and getup.qpon. For founders, the main question is whether the word is easy to remember, easy to say, and specific enough to own as a brand on a niche extension. For investors, the key test is price discipline: compare each ask against the median ask of 272.93 and be stricter with names that may face trademark friction, such as Chanel.qpon, or weak word-extension fit.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All domains in this selection use the .qpon extension
+- Median ask across the set is 272.93
+- Prioritize clean words with clear recall and spelling
+- Check trademark exposure on names like Chanel or WiFi
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
