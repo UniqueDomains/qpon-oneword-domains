@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .qpon one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,716 domains · **Median ask:** $272.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/qpon`  
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,8 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | WiFi.qpon          | premium   | —         | —             | 83             | 37     | 5      | —         |
 | geton.qpon         | available | $1.99     | —             | 82             | 10     | 6      | name.com  |
-| getup.qpon         | available | $1.99     | —             | 82             | 14     | 6      | name.com  |
-| popup.qpon         | available | $1.99     | —             | 84             | 29     | 6      | name.com  |
+| getup.qpon         | available | $1.99     | —             | 82             | 15     | 6      | name.com  |
+| popup.qpon         | available | $1.99     | —             | 84             | 28     | 6      | name.com  |
 | Apples.qpon        | premium   | —         | —             | 90             | 16     | 6      | —         |
 | gearup.qpon        | available | $1.99     | —             | 80             | 16     | 7      | name.com  |
 | playin.qpon        | available | $1.99     | —             | 80             | 10     | 7      | name.com  |
@@ -76,7 +76,7 @@ print(df.head())
 | messages.qpon      | available | $1.99     | —             | 80             | 16     | 8      | name.com  |
 | keepthechange.qpon | available | $1.99     | —             | 46             | 59     | 15     | name.com  |
 | robots.qpon        | premium   | $640      | $23.54        | 62             | 47     | 6      | namesilo  |
-| whynot.qpon        | available | $1.99     | —             | 74             | 39     | 7      | name.com  |
+| whynot.qpon        | available | $1.99     | —             | 74             | 44     | 7      | name.com  |
 | tokens.qpon        | premium   | $3,450    | $23.54        | 51             | 36     | 6      | namesilo  |
 | spectra.qpon       | available | $1.99     | —             | 62             | 34     | 7      | name.com  |
 | payments.qpon      | premium   | $4,687.50 | —             | 58             | 33     | 8      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
