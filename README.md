@@ -80,9 +80,9 @@ print(df.head())
 | tokens.qpon        | premium   | $3,450    | $23.54        | 51             | 36     | 6      | namesilo  |
 | spectra.qpon       | available | $1.99     | —             | 62             | 34     | 7      | name.com  |
 | payments.qpon      | premium   | $4,687.50 | —             | 58             | 33     | 8      | name.com  |
-| inspiration.qpon   | available | $1.99     | —             | 88             | 30     | 11     | name.com  |
-| solutions.qpon     | premium   | $4,687.50 | —             | 56             | 31     | 9      | name.com  |
 | spaces.qpon        | available | $1.99     | —             | 54             | 30     | 6      | name.com  |
+| solutions.qpon     | premium   | $4,687.50 | —             | 56             | 31     | 9      | name.com  |
+| heroes.qpon        | available | $1.99     | —             | 68             | 29     | 6      | name.com  |
 | photos.qpon        | premium   | $4,687.50 | —             | 54             | 28     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
