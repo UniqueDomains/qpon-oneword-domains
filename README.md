@@ -1,10 +1,10 @@
-# Available .QPON One-Word Domains (12,716)
+# Available .QPON One-Word Domains (12,719)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C716%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C719%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .qpon one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,716 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,719 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,716 domains · **Median ask:** $272.93 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,719 domains · **Median ask:** $285.44 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/qpon`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/qpon`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .QPON one-word domain 
 
 ### Files
 
-- `qpon.csv` — public CSV extract (1,000 rows)
-- `qpon.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `qpon.csv`, public CSV extract (1,000 rows)
+- `qpon.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| WiFi.qpon          | premium   | —         | —             | 83             | 37     | 5      | —         |
-| geton.qpon         | available | $1.99     | —             | 82             | 10     | 6      | name.com  |
-| getup.qpon         | available | $1.99     | —             | 82             | 15     | 6      | name.com  |
-| popup.qpon         | available | $1.99     | —             | 84             | 28     | 6      | name.com  |
-| Apples.qpon        | premium   | —         | —             | 90             | 16     | 6      | —         |
-| gearup.qpon        | available | $1.99     | —             | 80             | 16     | 7      | name.com  |
-| playin.qpon        | available | $1.99     | —             | 80             | 10     | 7      | name.com  |
-| stirup.qpon        | available | $1.99     | —             | 82             | 3      | 7      | name.com  |
-| getlife.qpon       | available | $1.99     | —             | 80             | 5      | 8      | name.com  |
-| messages.qpon      | available | $1.99     | —             | 80             | 16     | 8      | name.com  |
-| keepthechange.qpon | available | $1.99     | —             | 46             | 59     | 15     | name.com  |
-| robots.qpon        | premium   | $640      | $23.54        | 62             | 47     | 6      | namesilo  |
-| whynot.qpon        | available | $1.99     | —             | 74             | 44     | 7      | name.com  |
-| tokens.qpon        | premium   | $3,450    | $23.54        | 51             | 36     | 6      | namesilo  |
-| spectra.qpon       | available | $1.99     | —             | 62             | 34     | 7      | name.com  |
-| payments.qpon      | premium   | $4,687.50 | —             | 58             | 33     | 8      | name.com  |
-| spaces.qpon        | available | $1.99     | —             | 54             | 30     | 6      | name.com  |
-| solutions.qpon     | premium   | $4,687.50 | —             | 56             | 31     | 9      | name.com  |
-| heroes.qpon        | available | $1.99     | —             | 68             | 29     | 6      | name.com  |
-| photos.qpon        | premium   | $4,687.50 | —             | 54             | 28     | 6      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| boob.qpon | available | $1.99     | —             | high           | low    | 4      | name.com  |
+| arm.qpon  | premium   | $640      | $23.54        | high           | medium | 3      | namesilo  |
+| bore.qpon | available | $27.99    | $27.99        | high           | low    | 4      | name.com  |
+| egg.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| core.qpon | available | $1.99     | —             | medium         | medium | 4      | name.com  |
+| end.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| each.qpon | available | $27.99    | $27.99        | high           | low    | 4      | name.com  |
+| HBO.qpon  | premium   | $640      | $23.54        | high           | medium | 3      | namesilo  |
+| edge.qpon | available | $1.99     | —             | high           | medium | 4      | name.com  |
+| led.qpon  | premium   | $3,450    | $23.54        | high           | low    | 3      | namesilo  |
+| Fran.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
+| les.qpon  | premium   | $3,450    | $23.54        | medium         | low    | 3      | namesilo  |
+| gram.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
+| lie.qpon  | premium   | $640      | $23.54        | medium         | low    | 3      | namesilo  |
+| gulf.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
+| mid.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| halo.qpon | available | $1.99     | —             | high           | medium | 4      | name.com  |
+| MMR.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| hell.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
+| nan.qpon  | premium   | $937.50   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,716 live domains                        |
+| 1,000-row public sample | 12,719 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 38 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word domains on the .qpon extension. The names span short coined terms, dictionary words, and keyword-style strings such as Acup.qpon, Trex.qpon, WiFi.qpon, finals.qpon, and getup.qpon. For founders, the main question is whether the word is easy to remember, easy to say, and specific enough to own as a brand on a niche extension. For investors, the key test is price discipline: compare each ask against the median ask of 272.93 and be stricter with names that may face trademark friction, such as Chanel.qpon, or weak word-extension fit.
+This list includes 12,719 .qpon domain names, the vast majority marked as available for purchase. Pricing skews affordable: nearly 9,900 names ask under $500, with smaller groups priced between $500 and $5,000. Demand scores are mostly low, though a subset of roughly 480 names shows mid-to-high demand, worth closer evaluation.
 
-- All domains in this selection use the .qpon extension
-- Median ask across the set is 272.93
-- Prioritize clean words with clear recall and spelling
-- Check trademark exposure on names like Chanel or WiFi
+- 12,719 total .qpon domains, median ask ~$285
+- 9,891 names priced under $500
+- 11,162 domains currently available, 1,555 premium
+- 63 names in the top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
