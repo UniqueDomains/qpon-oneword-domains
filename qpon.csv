@@ -1,7 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 579474a7-bd29-490f-b77f-23059d54e63c,sloth.qpon,available,1.99,,high,low,5,name.com,,,
 5d950e51-333c-4027-9a33-c87d4f066615,prohibited.qpon,available,1.99,27.99,low,low,10,name.com,,,08/08/2026 13:48
-91e1ba0b-b74f-4b22-b302-d09bdf098e1e,beat.qpon,available,,,high,high,4,,,,
 aac05e06-26ab-4f64-9849-01668934fa49,fruitjuice.qpon,available,1.99,,high,low,11,name.com,,,
 3d14d6a5-be73-4161-abf9-18f0cade9899,obtuse.qpon,available,27.99,27.99,high,low,6,name.com,,,
 283d5939-12c6-4501-9125-b9ba4bbb6897,guitar.qpon,available,,,high,low,6,,,,
@@ -868,7 +867,7 @@ d6735684-e40e-4809-88f2-ad6de6ea3d2e,receive.qpon,available,1.99,,high,low,7,nam
 ca5353a2-7f30-47d2-bbef-f31fe6c1677e,antitumour.qpon,available,1.99,,high,low,10,name.com,,,
 1c74ef90-e513-457a-9f0a-b14a49a6ffc7,revealing.qpon,available,1.99,,high,low,9,name.com,,,
 1ef312b4-e70c-4bc5-875b-c804813ac396,boy.qpon,available,,,medium,low,3,,,,
-71fce096-5d01-4a84-9af9-f125c0009298,touchon.qpon,available,1.99,,low,low,8,name.com,,,
+71fce096-5d01-4a84-9af9-f125c0009298,touchon.qpon,available,2.19,11.49,low,low,8,namesilo,,,17/09/2026 14:12
 bdcd05b3-33b1-4bbc-8baa-40d1ce391dfc,probable.qpon,available,1.99,,high,low,8,name.com,,,
 dd996559-954b-4ded-8e7c-e818abdd53a3,havesecondthoughts.qpon,available,1.99,,medium,low,20,name.com,,,
 1b098755-6ec2-4bdf-a6c5-6388021dfc2c,LGBTQ.qpon,premium,640,23.54,high,low,5,namesilo,,,
@@ -999,3 +998,4 @@ b25a511a-2639-4ddf-a0e1-81e6fce9f9e4,dollarstore.qpon,available,,,medium,low,12,
 10ef6b2f-e72a-4b17-b71e-91853a89877b,very.qpon,available,1.99,,high,low,4,name.com,,,
 c806ba0a-e7d4-4189-a9c1-76ef14386e98,missionaccomplished.qpon,available,1.99,,medium,low,20,name.com,,,
 5c115c4c-918f-46fa-ba93-948fd5aeccd8,anabatic.qpon,available,1.99,27.99,low,low,8,name.com,,,
+c08c9fc4-c9af-4135-9216-e3d8d50353d7,badness.qpon,available,1.99,27.99,low,low,7,name.com,,,08/08/2026 07:23
