@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .qpon one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,191 domains · **Median ask:** $156.14 · **High-demand under $2,500:** 53
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/qpon`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| here.qpon | premium   | $3,450    | $23.54        | high           | medium | 4      | namesilo  |
 | boob.qpon | available | $1.99     | —             | high           | low    | 4      | name.com  |
 | arm.qpon  | premium   | $640      | $23.54        | high           | medium | 3      | namesilo  |
 | bore.qpon | available | $27.99    | $27.99        | high           | low    | 4      | name.com  |
@@ -71,19 +72,18 @@ print(df.head())
 | core.qpon | available | $1.99     | —             | medium         | medium | 4      | name.com  |
 | end.qpon  | premium   | $640      | $23.54        | medium         | low    | 3      | namesilo  |
 | each.qpon | available | $27.99    | $27.99        | high           | low    | 4      | name.com  |
-| HBO.qpon  | premium   | $640      | $23.54        | high           | medium | 3      | namesilo  |
+| hbo.qpon  | premium   | $640      | $23.54        | high           | medium | 3      | namesilo  |
 | edge.qpon | available | $1.99     | —             | high           | medium | 4      | name.com  |
 | led.qpon  | premium   | $3,450    | $23.54        | high           | low    | 3      | namesilo  |
-| Fran.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
+| fran.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
 | les.qpon  | premium   | $3,450    | $23.54        | medium         | low    | 3      | namesilo  |
 | gram.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
 | lie.qpon  | premium   | $640      | $23.54        | medium         | low    | 3      | namesilo  |
 | gulf.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
 | mid.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
 | halo.qpon | available | $1.99     | —             | high           | medium | 4      | name.com  |
-| MMR.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| mmr.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
 | hell.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
-| nan.qpon  | premium   | $937.50   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
