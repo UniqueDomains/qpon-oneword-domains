@@ -1,10 +1,10 @@
-# Available .QPON One-Word Domains (24,544)
+# Available .QPON One-Word Domains (25,114)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C544%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C114%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .qpon one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,544 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,114 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,544 domains · **Median ask:** $257.53 · **High-demand under $2,500:** 97
+**Public extract:** 1,000 rows · **Live catalog:** 25,114 domains · **Median ask:** $262.95 · **High-demand under $2,500:** 100
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/qpon`
@@ -82,7 +82,7 @@ print(df.head())
 | hit.qpon  | premium   | $3,450    | $23.54        | high           | high   | 3      | namesilo  |
 | carl.qpon | available | $2.19     | $11.49        | high           | medium | 4      | namesilo  |
 | icc.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| chin.qpon | available | $1.99     | —             | high           | low    | 4      | name.com  |
+| cato.qpon | available | $2.19     | $11.49        | high           | low    | 4      | namesilo  |
 | ixl.qpon  | premium   | $640      | $23.54        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,544 live domains                        |
+| 1,000-row public sample | 25,114 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 97 high-demand names under $2,500          |
+| Basic exported fields   | 100 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

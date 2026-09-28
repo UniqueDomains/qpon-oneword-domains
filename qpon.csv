@@ -39,6 +39,7 @@ ba928d83-d8c3-402d-aaf4-8f6252d5d128,application.qpon,available,2.19,11.49,high,
 8aab5d16-0997-459a-9d28-e41ab5540238,leash.qpon,premium,3450,23.54,high,low,5,namesilo,,,
 2f5df5eb-b5bd-4f6d-97f5-57da18b2dd79,newport.qpon,premium,3450,23.54,high,low,7,namesilo,,,28/09/2026 02:29
 dfe66410-e54c-4b3d-a5bf-4fe5c18a11bf,whether.qpon,available,1.99,,high,low,7,name.com,,,
+bbe18bf0-f75c-490b-9c82-b773aa972b5c,geoff.qpon,available,2.19,11.49,medium,low,5,namesilo,,,28/09/2026 07:55
 7f4e0abe-3746-48d2-951d-e5f46d1cc212,jeremiah.qpon,available,2.19,11.49,high,low,8,namesilo,,,24/09/2026 06:54
 3621ab6e-ca4b-49c2-a574-5a8eba4f8a08,brummell.qpon,available,2.19,11.49,medium,low,8,namesilo,,,22/09/2026 22:01
 637c068c-0fad-4b85-9de7-4cd5df8e5cbe,nobel.qpon,available,2.19,11.49,high,low,5,namesilo,,,18/09/2026 06:24
@@ -52,9 +53,11 @@ f0784e99-d8e6-4355-b356-91a466bb9628,rotated.qpon,available,1.54,9.66,medium,low
 5dc93f78-524e-40a3-ab01-f6f102709a60,puglia.qpon,available,2.19,11.49,high,low,6,namesilo,,,19/09/2026 22:41
 4edd6d58-fabd-4107-be63-401c6bc9e36a,amnios.qpon,available,2.19,11.49,medium,low,6,namesilo,,,18/09/2026 22:26
 a7ecfbc1-9ff5-41f0-b511-f16f5d4e270a,stretchy.qpon,available,2.19,11.49,high,low,8,namesilo,,,10/09/2026 22:32
-19b2fe34-ecf6-4c12-886a-ce04694cfdc4,logistics.qpon,available,2.19,11.49,high,low,9,namesilo,,,25/09/2026 14:40
+19b2fe34-ecf6-4c12-886a-ce04694cfdc4,logistics.qpon,available,2.19,11.49,high,low,9,namesilo,,,28/09/2026 03:58
+4ab581af-9c1c-4b99-bb0b-c796d27bcbb4,interrupted.qpon,available,2.19,11.49,medium,low,11,namesilo,,,28/09/2026 08:46
 bb6953d4-0293-40a8-938b-b9989d9553ee,why.qpon,premium,640,23.54,high,low,3,namesilo,,,25/09/2026 10:59
 e3d906ea-7cf1-4c0d-8e5a-568fd724ef35,cooler.qpon,available,,,high,low,6,,,,24/09/2026 18:05
+1bd9fc3c-1979-45a9-b70a-029ef3ab98b2,sudbury.qpon,premium,640,23.54,medium,low,7,namesilo,,,28/09/2026 06:48
 145b5c6d-9425-4b78-a90a-b278cdbdb212,outdoor.qpon,available,,,high,low,7,,,,
 471f2c54-ae6a-4ca5-843f-82d218c46107,humanist.qpon,available,1.99,27.99,high,low,8,name.com,,,21/08/2026 14:50
 90a5c317-6a5e-4ecf-b3d0-d5606bd870df,since.qpon,available,1.99,,high,low,5,name.com,,,
@@ -90,6 +93,7 @@ d8e044ff-cd97-43a4-8ef3-a5e1613001c5,plays.qpon,premium,3450,23.54,medium,low,5,
 02ccee45-2f6c-4683-9c4e-4915b3f09aab,poison.qpon,available,,,high,low,6,,,,11/09/2026 18:25
 0eb654a2-ff09-4798-90b9-9c3a0894ae22,wagon.qpon,available,1.99,,high,low,5,name.com,,,
 d89417af-ab66-44d6-919e-76c234e6df0e,matthews.qpon,available,,,high,low,8,,,,25/09/2026 19:36
+43875b94-815b-4666-9429-64c951e6a13b,andre.qpon,available,2.19,11.49,high,low,5,namesilo,,,28/09/2026 04:04
 59a7de18-d383-4570-8dbe-3d03b181a9cb,february.qpon,available,,,high,low,8,,,,
 31e8d4a0-8af7-41e0-9271-46f8fed458b7,warty.qpon,available,1.99,27.99,medium,low,5,name.com,,,13/09/2026 04:24
 3a30c367-8560-4c30-824a-b1b5205d7d03,kilobyte.qpon,available,1.99,,high,low,8,name.com,,,
@@ -130,11 +134,12 @@ e75331fa-0997-4859-ad1e-ee7c0ae304ad,nut.qpon,premium,640,23.54,high,low,3,names
 ea1d9cd6-52ca-4c2f-bebe-3fd065de38c0,mockingly.qpon,available,2.19,11.49,medium,low,9,namesilo,,,14/09/2026 12:02
 ae27c309-cb51-44c5-a495-1dcd784a6f52,mated.qpon,available,1.99,27.99,medium,low,5,name.com,,,24/08/2026 17:10
 b6745db1-867e-403b-a54c-b6421e4b4417,barley.qpon,available,2.19,11.49,high,low,6,namesilo,,,22/09/2026 06:33
-fb079783-eeb8-4820-bdf9-ef15af76eabc,facts.qpon,premium,302.5,23.54,high,low,5,namesilo,,,23/09/2026 17:41
+fb079783-eeb8-4820-bdf9-ef15af76eabc,facts.qpon,premium,302.5,23.54,high,low,5,namesilo,,,28/09/2026 04:09
 c35d80a5-c49c-4c92-933d-fb2bdc6e193b,hill.qpon,available,1.99,,high,low,4,name.com,,,
 a7a01647-21c3-4e03-ad03-2e5ca3881fae,hamburger.qpon,premium,3450,23.54,high,low,9,namesilo,,,
 a24a3695-bc7c-4b02-a459-2c025f608afc,hoarse.qpon,available,1.99,27.99,medium,low,6,name.com,,,21/08/2026 10:10
 abc50dec-8f1a-4025-a863-fa475c60a37e,beetling.qpon,available,1.99,27.99,medium,low,8,name.com,,,09/08/2026 08:22
+2d07c377-408a-4981-80df-9bd8248ac592,knives.qpon,premium,3450,23.54,medium,low,6,namesilo,,,28/09/2026 05:00
 795cb7bb-26a6-4daf-b329-bc32aa2cd2f1,adulation.qpon,available,2.19,11.49,medium,low,9,namesilo,,,17/09/2026 10:04
 2ec7ab23-b3bc-4ba2-b299-ebce93ff76c8,almoner.qpon,available,2.19,11.49,medium,low,7,namesilo,,,18/09/2026 12:40
 00a90566-349c-4a11-aa6f-cd237e7d0e3b,woolly.qpon,available,1.99,27.99,high,low,6,name.com,,,18/08/2026 08:40
@@ -162,7 +167,7 @@ f8000b13-71a3-4764-a987-195bf8f90fea,cleaning.qpon,premium,53.92,23.54,high,low,
 12cf7f97-684e-4ce2-aa10-ff8f11f3d85a,arhat.qpon,available,2.19,11.49,medium,low,5,namesilo,,,20/09/2026 05:05
 a12d7a55-4d8d-4a4c-ad8f-f651af0680e2,insecure.qpon,available,1.99,27.99,high,low,8,name.com,,,22/08/2026 06:42
 b035a61f-7ea1-4c7f-9254-6116cd33e9ce,braless.qpon,available,1.99,27.99,low,low,7,name.com,,,08/08/2026 18:29
-ac30a382-6e3a-4099-82c7-acf8c8ab5b3e,items.qpon,available,2.19,11.49,medium,low,5,namesilo,,,23/09/2026 02:55
+ac30a382-6e3a-4099-82c7-acf8c8ab5b3e,items.qpon,available,2.19,11.49,medium,low,5,namesilo,,,28/09/2026 04:15
 07da398d-a7b7-4da0-9235-1df748bb8fe5,grain.qpon,available,2.19,11.49,high,low,5,namesilo,,,28/09/2026 01:37
 b33b66f3-9630-4c76-b331-5e5f5033d66c,birthrate.qpon,available,,,medium,low,9,,,,23/09/2026 20:56
 84fa5097-e342-4d11-ad48-e2887250a951,willowy.qpon,available,1.99,27.99,medium,low,7,name.com,,,20/08/2026 17:31
@@ -257,7 +262,7 @@ ec9251dd-aaae-4148-be53-27bcb07e8e6e,introduction.qpon,available,1.99,,high,low,
 ec165feb-a344-4a75-a18a-6016cbd28a49,deviant.qpon,available,1.99,27.99,high,low,7,name.com,,,
 69538b7f-98d5-453d-b4e8-43484505810c,mono.qpon,premium,4687.5,27.99,high,medium,4,name.com,,,25/09/2026 21:33
 045d68f8-d670-4738-8d0e-32616c76e14b,wager.qpon,available,2.19,11.49,high,low,5,namesilo,,,23/09/2026 10:51
-8f08f5fa-a6df-4c68-a35a-f09182a48e9d,approaches.qpon,available,1.99,,high,low,10,name.com,,,23/09/2026 20:05
+8f08f5fa-a6df-4c68-a35a-f09182a48e9d,approaches.qpon,available,2.19,11.49,high,low,10,namesilo,,,28/09/2026 06:41
 be26463b-e17d-4ffe-be1b-251be0fb8915,ashtray.qpon,available,2.19,11.49,high,low,7,namesilo,,,20/09/2026 14:02
 44ffc90e-6c72-41c6-9f4c-0c5bc0bc3809,mode.qpon,available,1.99,,high,low,4,name.com,,,
 f20c3c72-267d-4ffc-b569-b4468be5f576,esthete.qpon,available,2.19,11.49,medium,low,7,namesilo,,,17/09/2026 13:35
@@ -310,6 +315,7 @@ bba66e7f-4fe5-4d04-87fe-181fcc3b6b4e,potpourri.qpon,available,1.99,27.99,high,lo
 a9062fe1-fc71-491a-b870-73c1371081bf,sevenfold.qpon,available,2.19,11.49,medium,low,9,namesilo,,,10/09/2026 04:25
 fa7e8bf3-2a8a-45ff-8097-f083cf8c9382,jesting.qpon,available,1.99,27.99,high,low,7,name.com,,,22/08/2026 12:52
 7c267815-4955-4646-a57d-7cc21141aa99,floss.qpon,premium,4687.5,27.99,high,low,5,name.com,,,24/09/2026 21:54
+2bd01d07-165c-44bb-887d-575a499f748d,julien.qpon,available,2.19,11.49,high,low,6,namesilo,,,28/09/2026 03:56
 d974afec-22dc-4079-acd3-2f38dde22847,expect.qpon,available,1.99,,high,low,6,name.com,,,
 ce62ca14-cfe4-429f-8cca-b71da40c575c,alary.qpon,available,1.99,27.99,medium,low,5,name.com,,,
 6d4308a2-e122-40aa-8cf6-c4bae1df2f89,ado.qpon,premium,640,23.54,high,low,3,namesilo,,,17/09/2026 09:17
@@ -343,6 +349,7 @@ f985b50a-06c8-44c2-9923-68d2ba54662a,monkfish.qpon,available,2.19,11.49,medium,l
 9c86cdf2-0e5c-45ae-8baa-56e4f971224a,olfactive.qpon,available,2.19,11.49,medium,low,9,namesilo,,,04/09/2026 02:13
 dab1fe06-48ca-4cac-964b-a792908edfb1,glance.qpon,available,1.99,,high,low,6,name.com,,,
 24b7c532-6184-4a76-944b-b6485c370cac,katabatic.qpon,available,1.99,27.99,medium,low,9,name.com,,,11/08/2026 20:41
+3e50e0db-ae17-40b5-ac68-537778ce98b9,herrera.qpon,available,2.19,11.49,medium,low,7,namesilo,,,28/09/2026 04:13
 3b9b15e6-4db9-411b-8197-3afea8eff594,benito.qpon,available,3.49,9.72,medium,low,6,dynadot,,,27/09/2026 19:23
 2aa08b6e-fbe5-47a6-ac7c-545be1a2cc21,diluvian.qpon,available,1.99,27.99,medium,low,8,name.com,,,14/08/2026 07:51
 47ed3cfe-016d-4adb-9b69-8098cce0dc05,verse.qpon,available,1.99,,high,low,5,name.com,,,
@@ -364,6 +371,7 @@ dec2482e-090e-4fe3-b5c5-7a2fab3999c5,scholarly.qpon,available,1.99,27.99,high,lo
 b0d8dbec-2e3e-4374-8b01-32947580efef,shouldered.qpon,available,2.19,11.49,high,medium,10,namesilo,,,10/09/2026 06:51
 92f65800-1496-4405-8fa1-c015a4066264,lingually.qpon,available,2.19,11.49,medium,low,9,namesilo,,,15/09/2026 12:28
 57ed7c2e-bf32-4c5a-b726-537687d3ac6c,jolted.qpon,available,1.99,27.99,medium,low,6,name.com,,,22/08/2026 13:55
+ff6a4dc8-e087-4278-8ef4-29528d2172e1,dorothea.qpon,available,1.54,9.66,medium,low,8,porkbun,,,28/09/2026 07:54
 8af32c1b-4894-469e-ae1a-470d07fe6eec,bronzed.qpon,available,1.99,27.99,high,low,7,name.com,,,11/08/2026 05:43
 06c8b26e-f191-4e01-afa8-52e64ded7eb5,wise.qpon,available,2.19,11.49,high,high,4,namesilo,,,24/09/2026 23:31
 6bc6bd0c-3a2a-4f6e-9d2a-06ec6c8ce4e9,hoarding.qpon,available,2.19,11.49,medium,low,8,namesilo,,,23/09/2026 16:09
@@ -414,10 +422,11 @@ d5eedb2b-945b-426e-b6bd-2a44b343f9e1,apiculture.qpon,available,2.19,11.49,medium
 998176a4-9f45-4dc2-9cc3-2496fa2aff9a,stunned.qpon,available,2.19,11.49,high,low,7,namesilo,,,22/09/2026 03:44
 6456af86-f0cc-4148-bbd2-f02981ee5e9e,waken.qpon,available,1.99,27.99,high,low,5,name.com,,,08/08/2026 00:08
 52ea78bd-4a00-4156-893f-6ae106cbbacf,flightless.qpon,available,1.99,27.99,medium,low,10,name.com,,,18/08/2026 08:09
-431f20a8-c690-49e8-b561-99a5e6e56974,academics.qpon,available,2.19,11.49,high,low,9,namesilo,,,24/09/2026 02:34
+431f20a8-c690-49e8-b561-99a5e6e56974,academics.qpon,available,3.49,9.72,high,low,9,dynadot,,,28/09/2026 05:28
 5ebcc587-3844-4f40-ae70-0c5b4a52f7ec,startled.qpon,available,,,medium,low,8,,,,10/09/2026 19:00
 118249f0-9189-4d29-9259-e62206a515c1,morris.qpon,premium,640,23.54,high,low,6,namesilo,,,25/09/2026 05:42
 cae3b1e6-dda4-4308-a373-f54eacbf10dc,mellon.qpon,available,2.19,11.49,high,low,6,namesilo,,,19/09/2026 04:48
+c59956bc-0751-40a6-a28f-3ba1769bc041,maple.qpon,available,2.19,11.49,high,medium,5,namesilo,,,28/09/2026 06:21
 a7ffa635-2959-4bce-802c-ad8dcf6012b3,based.qpon,available,1.99,27.99,high,medium,5,name.com,,,22/09/2026 17:49
 3f021bc2-b84f-4623-b2ef-b381838cc363,chorale.qpon,available,1.99,27.99,high,low,7,name.com,,,12/08/2026 07:04
 4ce3d467-5583-4e2b-b072-9390e1c1bf3b,batis.qpon,available,2.19,11.49,medium,low,5,namesilo,,,22/09/2026 14:03
@@ -484,6 +493,7 @@ e4406e9b-851b-4892-81bc-622dbbb9637e,touring.qpon,available,1.99,,high,low,7,nam
 37c1581c-6e20-4d96-8e5c-5fc1c3a8219e,acarine.qpon,available,,,medium,low,7,,,,16/09/2026 21:33
 eed6e5c8-9ff0-42c6-8fb3-9f0671cf8435,yale.qpon,premium,53.92,23.54,high,low,4,namesilo,,,25/09/2026 05:27
 8f3738d3-8cf8-416a-9c92-fa1ce85495e6,copycat.qpon,available,2.19,11.49,high,low,7,namesilo,,,19/09/2026 16:27
+0dc09978-5bec-468f-aa01-f203d100e180,lasalle.qpon,premium,546.35,22.31,high,low,7,porkbun,,,28/09/2026 06:07
 e4958cf0-2a70-4ea7-b6ab-c9e7e12790cb,disappointed.qpon,available,1.99,,medium,low,12,name.com,,,
 731b8dcb-4830-4f4d-81c9-adc44eeb49f5,jena.qpon,available,2.19,11.49,medium,low,4,namesilo,,,22/09/2026 15:18
 cf054f45-9287-4def-b102-6c116f0c61a8,harmon.qpon,available,2.19,11.49,high,low,6,namesilo,,,27/09/2026 07:57
@@ -510,7 +520,7 @@ cd742688-98b0-4e30-a4fe-bc94fa337307,troth.qpon,available,2.19,11.49,medium,low,
 5d7098ca-b324-4c5f-91d8-8c83a7d76ed2,snap.qpon,premium,3450,23.54,high,medium,4,namesilo,,,24/09/2026 01:20
 6c4b51ea-58cd-4fe3-8ddc-01822e03a603,illuminate.qpon,available,1.99,27.99,high,low,10,name.com,,,23/08/2026 02:47
 271da901-3fd2-41e2-a5a0-dec1ddcf3878,directing.qpon,available,2.19,11.49,high,low,9,namesilo,,,24/09/2026 10:51
-72df58d7-c115-44f0-8191-781ac332c301,finance.qpon,premium,3450,23.54,high,medium,7,namesilo,,,23/09/2026 09:19
+72df58d7-c115-44f0-8191-781ac332c301,finance.qpon,premium,3450,23.54,high,medium,7,namesilo,,,28/09/2026 03:52
 48ecfae8-67f9-4e92-80fc-3eed53893630,blooming.qpon,available,1.99,27.99,high,low,8,name.com,,,10/08/2026 15:27
 2e1a2c80-ec12-4c5e-8d02-639eef261610,bracket.qpon,available,2.19,11.49,high,low,7,namesilo,,,19/09/2026 06:22
 1e5ac448-1eef-4c98-8e65-50b2340b70e8,bookstore.qpon,premium,53.92,23.54,high,low,9,namesilo,,,24/09/2026 07:17
@@ -545,7 +555,7 @@ ac0bb86f-bb40-40d4-8759-9f561c4e59de,teens.qpon,premium,3450,23.54,high,low,5,na
 174ba72b-82b0-4dcc-bf87-18b13451e39b,serbs.qpon,available,2.19,11.49,medium,low,5,namesilo,,,20/09/2026 12:11
 afcc1283-8c97-4625-a570-452faf59e82e,alaric.qpon,available,2.19,11.49,medium,low,6,namesilo,,,18/09/2026 01:52
 9226f56f-6968-4458-b32b-49eabb67daa4,hemp.qpon,premium,3450,23.54,high,low,4,namesilo,,,24/09/2026 12:04
-79596f08-d6e3-4c5c-9b16-fae8a370da19,spf.qpon,premium,640,23.54,high,low,3,namesilo,,,25/09/2026 17:19
+79596f08-d6e3-4c5c-9b16-fae8a370da19,spf.qpon,premium,546.35,22.31,high,low,3,porkbun,,,28/09/2026 05:21
 c3355a09-b2fd-4435-a3ec-0e56965e0d24,prn.qpon,available,,,medium,low,3,,,,13/09/2026 21:26
 d927e5a7-16f4-483f-b7d4-1843f04b1851,biodefense.qpon,available,,,medium,low,10,,,,23/09/2026 17:48
 236e1299-02ae-47bd-bc26-d21764e79156,unassisted.qpon,available,2.19,11.49,high,medium,10,namesilo,,,10/09/2026 08:26
@@ -584,6 +594,7 @@ e4f9a03c-d7df-40aa-a2df-56335585c83d,stemma.qpon,available,2.19,11.49,medium,low
 256f896d-e1b2-4433-858e-b09ae8badbe9,cupid.qpon,available,2.19,11.49,high,low,5,namesilo,,,18/09/2026 22:35
 0882346a-138d-493e-aed3-72867d3914bf,cathy.qpon,available,2.19,11.49,high,low,5,namesilo,,,17/09/2026 16:36
 7e193461-c364-4e39-80b0-aa593d021996,nighttime.qpon,available,1.99,,high,low,9,name.com,,,
+36db9a08-0dc7-46d6-8c29-af9eae0be2db,roland.qpon,available,2.19,11.49,high,low,6,namesilo,,,28/09/2026 07:46
 2c439481-c553-4716-be6a-ef86e42aeabb,unisex.qpon,available,2.19,11.49,high,low,6,namesilo,,,12/09/2026 13:52
 95248acf-10fa-40df-9d1f-22e1600f4637,recurrent.qpon,available,2.19,11.49,high,low,9,namesilo,,,09/09/2026 11:57
 06017375-3b00-4b0a-bcad-9dfd1e148dfd,bile.qpon,available,2.19,11.49,medium,low,4,namesilo,,,23/09/2026 15:41
@@ -631,12 +642,14 @@ b44bb3d1-123a-4c1d-9157-81127118f02e,cap.qpon,premium,640,23.54,high,low,3,names
 67ad1957-ebff-4402-ac31-7a08e1bee80f,corruption.qpon,available,1.99,,medium,low,10,name.com,,,
 79f876b0-4b9d-41fb-b2b1-1785e8f99147,reasoned.qpon,available,2.19,11.49,high,low,8,namesilo,,,09/09/2026 11:08
 975fdef6-6a47-4d30-aa58-3e39c30fbb50,bazaar.qpon,available,,,high,low,6,,,,22/09/2026 18:20
+58264fd5-45df-4373-8d6b-9df8d1e70ba9,pentagon.qpon,available,3.49,9.72,high,low,8,dynadot,,,28/09/2026 06:34
 a160534e-3d43-4b42-9490-df86efa37db9,stoneless.qpon,available,,,low,low,9,,,,10/09/2026 21:12
 6fe6ef3b-1240-47e0-ad32-5be846856119,ethical.qpon,available,2.19,11.49,high,low,7,namesilo,,,19/09/2026 14:49
-be266cf4-5f6d-4732-a46f-c8b24f16eacd,integrate.qpon,available,2.19,11.49,high,low,9,namesilo,,,24/09/2026 06:03
+be266cf4-5f6d-4732-a46f-c8b24f16eacd,integrate.qpon,available,2.19,11.49,high,low,9,namesilo,,,28/09/2026 06:58
 f20c7c92-cb98-4183-ad6a-bb43f5197999,loverly.qpon,available,1.99,27.99,medium,low,7,name.com,,,24/08/2026 10:16
 e16ec59b-4775-4782-a77b-a39b8c7fbc6e,kweek.qpon,available,,,medium,low,5,,,,21/09/2026 18:35
 5fe71a8c-f0a2-4820-ba5b-4015ea4c9ed5,asimov.qpon,available,2.19,11.49,high,low,6,namesilo,,,20/09/2026 14:15
+7711e01f-69fa-4e2e-8333-f44900c9dd80,dryden.qpon,premium,640,23.54,medium,low,6,namesilo,,,28/09/2026 05:32
 414b2329-a405-4adf-b025-a0a685feb356,ovate.qpon,available,1.99,27.99,medium,low,5,name.com,,,15/08/2026 18:03
 8099cf54-6c52-4337-a8d5-bb84281a89d5,pleading.qpon,available,1.99,27.99,medium,low,8,name.com,,,09/08/2026 15:21
 81acc29f-6315-413a-bb9d-66d0c42568a7,indwelling.qpon,available,1.99,27.99,medium,low,10,name.com,,,22/08/2026 03:37
@@ -665,6 +678,7 @@ e486b081-7671-40f9-add5-21dcb8fb5948,emphasise.qpon,available,2.19,11.49,high,lo
 4f808af0-3b43-4497-aa9e-318f01e4fe17,actuality.qpon,available,2.19,11.49,high,low,9,namesilo,,,17/09/2026 05:19
 d11f0873-3e1c-4ef9-9eae-bad68db77b62,poorly.qpon,available,2.19,11.49,medium,low,6,namesilo,,,25/09/2026 07:34
 0864192b-3066-426f-8a8a-5b6893d574db,abuzz.qpon,available,1.99,27.99,medium,low,5,name.com,,,
+9035408b-c505-48b2-a7de-e3decdfe7718,hangs.qpon,available,3.49,9.72,low,low,5,dynadot,,,28/09/2026 08:56
 2a9dd5ff-6a80-4b51-a282-187c8883959b,heading.qpon,available,2.19,11.49,high,low,7,namesilo,,,25/09/2026 07:40
 309fb1c7-9432-43f9-8aa1-d274f391ff91,sounding.qpon,available,2.19,11.49,high,low,8,namesilo,,,25/09/2026 14:20
 31c4ec78-ec4b-460e-9847-b2d0b07fb13a,bonnily.qpon,available,2.19,11.49,medium,low,7,namesilo,,,14/09/2026 01:04
@@ -689,6 +703,7 @@ c9f28011-5f24-480d-8ac5-2c6e2f7da142,times.qpon,premium,4687.5,,high,low,5,name.
 f0b15ab9-5f60-4da9-ad28-3c9234fcb760,commonsense.qpon,available,1.99,,high,low,12,name.com,,,
 9bbfca41-e72c-4f47-8cab-dc41282859cb,gaseous.qpon,available,1.99,27.99,medium,low,7,name.com,,,18/08/2026 20:25
 ec4b8724-7bfb-4ca4-9ab0-019e956267dd,combined.qpon,available,1.99,27.99,high,low,8,name.com,,,12/08/2026 18:36
+547de6ec-9d36-4acd-b5e2-5180881f4b38,pedro.qpon,available,2.19,11.49,high,low,5,namesilo,,,28/09/2026 03:54
 307f7264-d347-4317-b377-762e61ae0011,bagatelle.qpon,available,,,medium,low,9,,,,21/09/2026 17:53
 356d795e-a93b-4176-beed-8d943010c065,palladio.qpon,available,2.19,11.49,medium,low,8,namesilo,,,19/09/2026 04:26
 1618090f-82de-48f7-b26b-42618e12f5ad,vhf.qpon,premium,640,23.54,high,low,3,namesilo,,,28/09/2026 02:03
@@ -718,6 +733,7 @@ d6735684-e40e-4809-88f2-ad6de6ea3d2e,receive.qpon,available,1.99,,high,low,7,nam
 6e07f02e-d673-443b-a096-d434411e3f32,timorous.qpon,available,2.19,11.49,medium,low,8,namesilo,,,11/09/2026 16:05
 89a62392-9e7b-43c4-bbc0-10561c54d192,conqueror.qpon,available,2.19,11.49,high,low,9,namesilo,,,24/09/2026 17:25
 0b825a39-bc68-4f05-bc66-2d5a4ea10737,punctual.qpon,available,2.19,11.49,high,medium,8,namesilo,,,09/09/2026 05:58
+20a5af2e-fb31-4f3f-a449-7c674556524c,rodney.qpon,available,2.19,11.49,high,low,6,namesilo,,,28/09/2026 03:52
 f50ae828-fe74-4d88-973c-a94d91b207a9,dumb.qpon,available,1.99,27.99,high,low,4,name.com,,,14/08/2026 21:03
 d0f2651c-d9a5-4386-8112-6e2863944bc6,compete.qpon,available,1.99,,high,low,7,name.com,,,
 64a656bf-a08d-4849-8d96-d1d88fdaac1b,coffee.qpon,premium,3450,23.54,high,medium,6,namesilo,,,
@@ -783,6 +799,7 @@ d670bffd-d690-41b9-ad91-482828a38097,encircled.qpon,available,1.99,27.99,medium,
 e9f0a8d8-da05-41ce-84a1-2deab9396630,ruling.qpon,available,2.19,11.49,high,medium,6,namesilo,,,09/09/2026 12:58
 d6e055c1-0413-4bf2-9b19-dbe1ace8e960,prayer.qpon,available,2.19,11.49,high,low,6,namesilo,,,28/09/2026 01:59
 ff51fea7-c14c-4210-96dd-a0aca4bf187e,virus.qpon,available,2.19,11.49,high,low,5,namesilo,,,24/09/2026 17:02
+649206c8-edd8-477e-84e7-f6b89323f8ee,cato.qpon,available,2.19,11.49,high,low,4,namesilo,,,28/09/2026 07:17
 24fdafbd-7c35-4f8e-a10b-3629dc3c5daa,auld.qpon,available,1.99,27.99,medium,low,4,name.com,,,07/08/2026 17:21
 7119554c-3712-466e-873e-9b97433d4a66,xxxiv.qpon,available,1.99,27.99,medium,low,5,name.com,,,
 56cf7a1e-fa81-4dcd-bf7f-8358e2e5a43b,clipped.qpon,premium,29.5,23.54,high,low,7,namesilo,,,12/08/2026 11:16
@@ -814,6 +831,7 @@ c4a19ae2-4b7c-4263-90fe-24e91a3331c8,keyed.qpon,available,1.99,27.99,high,low,5,
 5705673e-4d7b-4efc-8d70-281b745ba98a,voluntarily.qpon,available,1.99,,high,low,11,name.com,,,
 585d06bc-d023-475f-b9cc-22a068f07a38,blackfish.qpon,available,2.19,11.49,medium,low,9,namesilo,,,24/09/2026 01:55
 d243cfe6-fb27-4db7-a532-c35985bcca5e,cad.qpon,premium,640,23.54,high,low,3,namesilo,,,24/09/2026 02:18
+94bdea63-02dd-43fb-8744-2499d1e902f1,aggregates.qpon,available,2.19,11.49,low,low,10,namesilo,,,28/09/2026 08:51
 887aaf10-7179-4d45-bf4c-c53602d6baa8,catapultic.qpon,available,1.99,27.99,medium,low,10,name.com,,,11/08/2026 21:06
 a167d411-ceca-4af2-92ff-47f733635ab4,redbrush.qpon,available,2.19,11.49,medium,low,8,namesilo,,,18/09/2026 19:44
 bbc5ebc0-f76d-43d3-a55e-67a906fced98,jra.qpon,premium,640,23.54,medium,low,3,namesilo,,,19/09/2026 14:09
@@ -856,7 +874,7 @@ b8424c5d-d709-4f77-bdee-f5e3ef2d87bb,praiseful.qpon,available,1.99,27.99,medium,
 2f77c631-d22f-4564-b0f2-f6a0dcd77dc0,truer.qpon,available,2.19,11.49,medium,low,5,namesilo,,,20/09/2026 05:56
 905437b4-52cd-435c-8637-d287bf7fbbc4,thrilly.qpon,available,1.99,,medium,low,7,name.com,,,18/09/2026 19:36
 53dccd3e-0f48-4e97-b18a-8e39d89ef2a4,screwdrivers.qpon,premium,640,23.54,medium,low,12,namesilo,,,20/09/2026 04:52
-9e3a33d7-5d84-4c08-bca1-dfafe6f3e992,schools.qpon,premium,640,23.54,high,low,7,namesilo,,,24/09/2026 00:37
+9e3a33d7-5d84-4c08-bca1-dfafe6f3e992,schools.qpon,premium,550,21.94,high,low,7,dynadot,,,28/09/2026 08:54
 bcff8050-81b8-4057-b1a0-a6b2345cb35a,populations.qpon,available,1.99,,medium,low,11,name.com,,,18/09/2026 17:58
 1ef7d410-0076-454e-bfca-865ff251535b,boding.qpon,available,1.99,27.99,medium,low,6,name.com,,,18/08/2026 11:34
 d23929b1-6eb9-4c4b-9260-38133d289db1,speak.qpon,available,1.99,,high,low,5,name.com,,,
@@ -887,7 +905,7 @@ ea30d427-db9b-4848-97ba-23e04bd4889a,movement.qpon,available,1.99,,high,low,8,na
 5f9db031-6b05-4913-ac21-a0c1ca277a09,hospital.qpon,premium,3450,23.54,high,low,8,namesilo,,,25/09/2026 04:20
 23221880-a47e-4191-bbdc-8dd00b0cc36f,quintuple.qpon,available,1.99,27.99,medium,low,9,name.com,,,18/08/2026 05:54
 66fd2beb-1298-460f-8eec-89246641d0ce,necked.qpon,available,2.19,11.49,medium,low,6,namesilo,,,03/09/2026 14:40
-de50b06e-f173-4c61-a15a-70494ea133ac,intellect.qpon,available,1.99,27.99,high,low,9,name.com,,,22/08/2026 07:54
+de50b06e-f173-4c61-a15a-70494ea133ac,intellect.qpon,available,3.49,9.72,high,low,9,dynadot,,,28/09/2026 07:56
 ec6cc7de-43ea-43d0-929b-2f561917fa6f,humans.qpon,available,1.99,,high,medium,6,name.com,,,
 d38075be-c273-48d5-8016-2ec579e81cf0,elbow.qpon,available,2.19,11.49,high,low,5,namesilo,,,20/09/2026 11:23
 3df8c81b-f90b-46d8-8eb2-37e99a811e65,medal.qpon,available,1.99,,high,low,5,name.com,,,
@@ -900,7 +918,9 @@ dcbfd221-2653-4891-8f22-9c88960578d1,bombing.qpon,available,2.19,11.49,medium,lo
 ac7f9c07-f74f-44ae-a47b-8b68c627f8e8,effectual.qpon,available,1.99,27.99,high,low,9,name.com,,,15/08/2026 14:20
 43f07f5f-1261-4d06-a42d-39ae60c1285c,landless.qpon,available,1.99,27.99,medium,low,8,name.com,,,22/08/2026 19:24
 705a9082-459f-4dcf-a7b0-af96769bb318,marang.qpon,available,2.19,11.49,medium,low,6,namesilo,,,20/09/2026 12:01
+4cc4a8da-bd3d-4cdb-be4b-5433963c717d,fuse.qpon,available,2.19,11.49,high,low,4,namesilo,,,28/09/2026 05:34
 3c9c496f-2c28-42f3-8187-d2bb42c4dbd1,poignant.qpon,available,1.99,27.99,high,low,8,name.com,,,
+9373e9c5-c5a9-4e0d-ab21-12d42ad54a63,tackle.qpon,available,1.54,9.66,high,low,6,porkbun,,,28/09/2026 05:46
 eacf1c59-faed-4afe-99fb-1651c04c5eaa,stove.qpon,available,2.19,11.49,high,low,5,namesilo,,,19/09/2026 18:48
 660ba96b-9b14-4189-84b1-288f151578fd,floors.qpon,premium,2750,21.94,medium,low,6,dynadot,,,27/09/2026 22:02
 20a0544f-6bca-4db2-8939-5d2e3dacd3e8,olives.qpon,premium,640,23.54,medium,low,6,namesilo,,,20/09/2026 04:34
@@ -934,6 +954,7 @@ b582da4e-654b-4322-a9cd-400292fd3b70,regardless.qpon,available,1.99,27.99,high,l
 661287ae-7b70-443b-b577-adbfb26ba343,kiwi.qpon,premium,640,23.54,high,high,4,namesilo,,,03/09/2026 16:42
 69605d75-ed96-4309-8f05-c9a898cdcaf7,modernized.qpon,available,2.19,11.49,high,low,10,namesilo,,,19/09/2026 17:17
 bee3a1e9-c093-4229-b8d3-89c0f0d5ddad,imminently.qpon,available,2.19,11.49,medium,low,10,namesilo,,,15/09/2026 02:00
+446359a7-00dd-4b3b-961d-d278378bc462,carries.qpon,available,2.19,11.49,medium,low,7,namesilo,,,28/09/2026 04:37
 c24c3f25-495c-410d-a21d-105230e32306,approached.qpon,available,2.19,11.49,medium,low,10,namesilo,,,17/09/2026 16:13
 e8b99a24-bbec-4e06-a9b7-533ae59c544c,girdle.qpon,available,2.19,11.49,high,low,6,namesilo,,,24/09/2026 15:02
 5d2ced4d-aaf3-4630-b3ab-57992a265298,minor.qpon,available,1.99,,high,low,5,name.com,,,25/09/2026 20:28
@@ -975,27 +996,6 @@ e0d24b8d-7a5b-44d3-94f1-1e1d812fff31,dracula.qpon,available,1.99,,high,low,7,nam
 7aec0a02-4a43-4920-835f-ada77e549a45,blister.qpon,available,2.19,11.49,high,low,7,namesilo,,,24/09/2026 05:20
 eb43ae4f-843f-4c05-b328-27e0a79c5df5,bismark.qpon,available,2.19,11.49,medium,low,7,namesilo,,,23/09/2026 09:37
 798aec48-6b09-46a1-b357-99545ca2aab4,donuts.qpon,premium,3450,23.54,high,medium,6,namesilo,,,18/09/2026 14:27
+e6e318c3-5c1b-47b0-81d4-cb1e954a29f9,rains.qpon,premium,3450,23.54,medium,low,5,namesilo,,,28/09/2026 07:33
 2737c688-5962-4baf-bd5d-b1131e153d01,emi.qpon,available,2.19,11.49,high,low,3,namesilo,,,27/09/2026 10:37
 81fe1ede-2984-4f87-9b6c-0f5f5a60102d,clunk.qpon,available,2.19,11.49,medium,low,5,namesilo,,,11/09/2026 15:10
-bb0431ac-a19a-4950-99c9-86b720dd71e9,house.qpon,premium,4687.5,27.99,high,medium,5,name.com,,,24/09/2026 18:37
-6e5887eb-f53a-4a8a-aaa5-84f5cfdbf681,saratoga.qpon,premium,3450,23.54,high,low,8,namesilo,,,21/09/2026 04:45
-fc811469-fe82-4d87-915e-9a95449c20bd,pole.qpon,available,2.19,11.49,high,low,4,namesilo,,,24/09/2026 13:25
-89a3813b-8623-41de-95e4-1d13ea7b1106,cushioned.qpon,available,1.99,27.99,high,low,9,name.com,,,13/08/2026 11:53
-7e6c79a7-c627-45b2-b39f-99f1a73b7ef1,bigwig.qpon,available,2.19,11.49,high,low,6,namesilo,,,23/09/2026 15:30
-7423119b-0378-46a2-acc1-50ed75a6c475,nicki.qpon,available,1.99,,high,low,5,name.com,,,
-149ce351-5f34-4545-b0c2-89496a72fdb3,ovarian.qpon,available,1.99,27.99,medium,low,7,name.com,,,04/09/2026 19:55
-dc6be7ed-9861-48a8-a402-bde073000c4f,sate.qpon,available,2.19,11.49,medium,low,4,namesilo,,,09/09/2026 14:30
-6fa3a0c3-848d-4527-b748-dd85b0f9ce50,typewriters.qpon,available,2.19,11.49,medium,low,11,namesilo,,,21/09/2026 07:13
-2b02c2e6-c9ff-44d9-ac53-ae717e06f67a,acherontic.qpon,available,1.99,27.99,medium,low,10,name.com,,,
-2170000b-e399-4c03-b488-0f4a2bd80cbb,acronymous.qpon,available,1.99,27.99,medium,low,10,name.com,,,
-d34d6461-8bad-4908-bd7d-806992f5e153,blanche.qpon,available,2.19,11.49,medium,low,7,namesilo,,,26/09/2026 03:36
-1cc1dbd9-498e-4ca3-a74b-c654a735a435,linchpin.qpon,available,2.19,11.49,high,low,8,namesilo,,,21/09/2026 15:17
-6c87f001-1982-4728-a4a8-5e19ee8fff59,ground.qpon,available,2.19,11.49,high,low,6,namesilo,,,22/09/2026 17:38
-b96f1b1b-e4af-4162-8371-3002ded4b0ec,neurotoxic.qpon,available,2.19,11.49,medium,low,10,namesilo,,,03/09/2026 16:25
-528c47d7-d36b-4e0e-bd42-cf43edbcaf73,gormless.qpon,available,1.99,27.99,low,low,8,name.com,,,18/08/2026 20:48
-dcc10fbc-5fe5-4436-8df5-eca48eae60ae,armin.qpon,available,2.19,11.49,high,low,5,namesilo,,,20/09/2026 07:10
-72e281be-bcd0-43ac-be54-dd87667529ea,victuals.qpon,available,1.99,27.99,medium,low,8,name.com,,,12/08/2026 18:52
-da4a9b63-03d7-4fd2-b236-e877e6ca00a0,families.qpon,available,1.99,,high,low,8,name.com,,,
-606a7f54-c90a-4093-9fe4-d4625472582c,hanging.qpon,available,2.19,11.49,medium,low,7,namesilo,,,25/09/2026 04:41
-60d5fb04-221e-41a7-a98e-6a725e75fee4,well.qpon,available,2.19,11.49,high,low,4,namesilo,,,24/09/2026 22:39
-10cd173e-c1e6-45b7-af99-1827f76b15f1,insert.qpon,available,2.19,11.49,high,low,6,namesilo,,,24/09/2026 20:42
