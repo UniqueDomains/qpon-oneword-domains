@@ -1,10 +1,10 @@
-# Available .QPON One-Word Domains (27,024)
+# Available .QPON One-Word Domains (29,379)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C024%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C379%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .qpon one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,024 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,379 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,024 domains · **Median ask:** $275.92 · **High-demand under $2,500:** 112
+**Public extract:** 1,000 rows · **Live catalog:** 29,379 domains · **Median ask:** $278.49 · **High-demand under $2,500:** 131
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/qpon`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| adhd.qpon | available | $2.19     | $11.49        | high           | medium | 4      | namesilo  |
-| ado.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| ages.qpon | available | $1.99     | —             | medium         | low    | 4      | name.com  |
-| apc.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| auld.qpon | available | $1.99     | $27.99        | medium         | low    | 4      | name.com  |
-| bsa.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| bach.qpon | available | $2.19     | $11.49        | high           | low    | 4      | namesilo  |
-| cad.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| bart.qpon | available | $2.19     | $11.49        | high           | low    | 4      | namesilo  |
-| cap.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| bile.qpon | available | $2.19     | $11.49        | medium         | low    | 4      | namesilo  |
-| cdc.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| camo.qpon | available | $1.99     | —             | high           | low    | 4      | name.com  |
-| fig.qpon  | premium   | $546.35   | $22.31        | high           | low    | 3      | porkbun   |
-| carl.qpon | available | $2.19     | $11.49        | high           | medium | 4      | namesilo  |
-| gal.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
-| cato.qpon | available | $2.19     | $11.49        | high           | low    | 4      | namesilo  |
-| hit.qpon  | premium   | $3,450    | $23.54        | high           | high   | 3      | namesilo  |
-| chin.qpon | available | $1.99     | —             | high           | low    | 4      | name.com  |
-| icc.qpon  | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| wise.qpon       | available | $2.19     | $11.49        | high           | high   | 4      | namesilo  |
+| epic.qpon       | premium   | $640      | $23.54        | high           | medium | 4      | namesilo  |
+| master.qpon     | premium   | $3,450    | $23.54        | high           | low    | 6      | namesilo  |
+| ticket.qpon     | available | —         | —             | high           | low    | 6      | —         |
+| facts.qpon      | premium   | $302.50   | $23.54        | high           | low    | 5      | namesilo  |
+| coordinate.qpon | available | $2.19     | $11.49        | high           | low    | 10     | namesilo  |
+| ranking.qpon    | available | $2.19     | $11.49        | high           | low    | 7      | namesilo  |
+| logistics.qpon  | available | $2.19     | $11.49        | high           | low    | 9      | namesilo  |
+| hello.qpon      | premium   | $3,450    | $23.54        | high           | high   | 5      | namesilo  |
+| impact.qpon     | available | $3.49     | $9.72         | high           | high   | 6      | dynadot   |
+| occasion.qpon   | available | $2.19     | $11.49        | high           | low    | 8      | namesilo  |
+| mono.qpon       | premium   | $4,687.50 | $27.99        | high           | medium | 4      | name.com  |
+| based.qpon      | available | $3.49     | $9.72         | high           | medium | 5      | dynadot   |
+| endowment.qpon  | available | $3.49     | $9.72         | high           | low    | 9      | dynadot   |
+| finance.qpon    | premium   | $3,450    | $23.54        | high           | medium | 7      | namesilo  |
+| adhd.qpon       | available | $2.19     | $11.49        | high           | medium | 4      | namesilo  |
+| ado.qpon        | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| ages.qpon       | available | $1.99     | —             | medium         | low    | 4      | name.com  |
+| apc.qpon        | premium   | $640      | $23.54        | high           | low    | 3      | namesilo  |
+| aron.qpon       | available | $2.19     | $11.49        | high           | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,024 live domains                        |
+| 1,000-row public sample | 29,379 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 112 high-demand names under $2,500         |
+| Basic exported fields   | 131 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QPON One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
